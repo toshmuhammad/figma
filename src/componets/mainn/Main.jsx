@@ -11,12 +11,12 @@ export default function Main() {
     
     return (
         <main className="main" >
-            <Product 
+            {/* <Product 
             title={title}
             description={description}
             isNew={isNew}
             img={img}
-            />
+            /> */}
         </main >
     );
 }
